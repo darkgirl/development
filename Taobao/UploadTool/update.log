@@ -14,8 +14,8 @@
 			"url": "https://raw.githubusercontent.com/darkgirl/development/master/Taobao/UploadTool/UploadTool.exe",
 			"archive": true,
 			"path": "./TaobaoUploadTool.exe", 
-			"hash": "de54cf62b0afb57df6c15b70de4dcf89",
-			"size": 1421824
+			"hash": "f06289b9ae993bd6a5ce4b1ee7c19050",
+			"size": 1431552
 		}
 	],
 	"change_log": [
