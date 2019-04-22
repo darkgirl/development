@@ -1,0 +1,26 @@
+{
+	"version": "1.2.3",
+	"log_file": "",
+	"file_list" :[
+		{
+			"url": "ftp://ftpuser:ftpuser123@39.104.125.219/software/TaobaoDataManager/latest/TaobaoDataManagerUpdateTool.exe",
+			"path": "./TaobaoDataManagerUpdateTool.exe",
+			"archive": false,
+			"hash": "05d0bd893f1a6c0e59f3b6a874b50c24",
+			"size": 62464
+		},
+		{
+
+			"url": "ftp://ftpuser:ftpuser123@39.104.125.219/software/TaobaoDataManager/latest/TaobaoDataManagerbeta.exe",
+			"archive": false,
+			"path": "./TaobaoDataManagerbeta.exe", 
+			"hash": "3ff036d25737fe77ea6d63428bcf3fd2",
+			"size": 711680
+		}
+	],
+	"change_log": [
+		"提取时可以选择文件保存格式",
+		"修复选择类目查询结束后,选择类目重置为所有类目的问题",
+		"修复删除单个商品后会刷新整个页面的问题"
+	]
+}
