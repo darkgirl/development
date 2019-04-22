@@ -6,15 +6,15 @@
 			"url": "https://raw.githubusercontent.com/darkgirl/development/master/UpdateTool/UpdateTool.exe",
 			"path": "./UploadTool.exe",
 			"archive": false,
-			"hash": "51e207a831186fb70325c21e81a88273",
+			"hash": "8fdefbbe6ac7626c95e9b2b83b2f8be7",
 			"size": 69120
 		},
 		{
 
-			"url": "https://raw.githubusercontent.com/darkgirl/development/master/Taobao/UploadTool/UploadTool.exe",
+			"url": "https://raw.githubusercontent.com/darkgirl/development/master/Taobao/UploadTool/TaobaoUploadTool.exe",
 			"archive": true,
 			"path": "./TaobaoUploadTool.exe", 
-			"hash": "f06289b9ae993bd6a5ce4b1ee7c19050",
+			"hash": "f8f7019b9e475518cbdc9b19e7aa62c2",
 			"size": 1431552
 		}
 	],
