@@ -3,7 +3,7 @@
 	"log_file": "https://raw.githubusercontent.com/darkgirl/development/master/Taobao/UploadTool/update.log",
 	"file_list" :[
 		{
-			"url": "https://raw.githubusercontent.com/darkgirl/development/master/UpdateTool/UploadTool.exe",
+			"url": "https://raw.githubusercontent.com/darkgirl/development/master/UpdateTool/UpdateTool.exe",
 			"path": "./UploadTool.exe",
 			"archive": false,
 			"hash": "51e207a831186fb70325c21e81a88273",
