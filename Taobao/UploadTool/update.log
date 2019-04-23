@@ -6,16 +6,29 @@
 			"url": "https://raw.githubusercontent.com/darkgirl/development/master/UpdateTool/UpdateTool.exe",
 			"path": "./UploadTool.exe",
 			"archive": false,
-			"hash": "8fdefbbe6ac7626c95e9b2b83b2f8be7",
+			"hash": "1490ae3732e34473fbae65b08cdb1bd6",
 			"size": 69120
 		},
 		{
-
 			"url": "https://raw.githubusercontent.com/darkgirl/development/master/Taobao/UploadTool/TaobaoUploadTool.exe",
 			"archive": true,
 			"path": "./TaobaoUploadTool.exe", 
-			"hash": "f8f7019b9e475518cbdc9b19e7aa62c2",
-			"size": 1431552
+			"hash": "4d8ae12c0dee7eac9c994176ac2ee42e",
+			"size": 1441792
+		},
+		{
+			"url": "https://raw.githubusercontent.com/darkgirl/development/master/Util/Util.dll",
+			"archive": false,
+			"path": "./Util.dll",
+			"hash": "4a741641117664fe757f16d4e45bf009",
+			"size": 72192
+		},
+		{
+			"url": "https://raw.githubusercontent.com/darkgirl/development/master/Taobao/TaobaoUtil/TaobaoUtil.dll",
+			"archive": false,
+			"path": "./TaobaoUtil.dll",
+			"hash": "e3c4df2214bf7a095a69300964cab4de",
+			"size": 38400
 		}
 	],
 	"change_log": [
