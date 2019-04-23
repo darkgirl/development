@@ -4,7 +4,7 @@
 	"file_list" :[
 		{
 			"url": "https://raw.githubusercontent.com/darkgirl/development/master/UpdateTool/UpdateTool.exe",
-			"path": "./UploadTool.exe",
+			"path": "./UpdateTool.exe",
 			"archive": false,
 			"hash": "1490ae3732e34473fbae65b08cdb1bd6",
 			"size": 69120
