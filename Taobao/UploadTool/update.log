@@ -1,5 +1,5 @@
 {
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"log_file": "https://raw.githubusercontent.com/darkgirl/development/master/Taobao/UploadTool/update.log",
 	"file_list" :[
 		{
@@ -33,6 +33,11 @@
 		}
 	],
 	"change_log": [
+	"2019-04-30",
+	"增加 标题添加前后缀功能",
+	"完善 有3C证书商品上传",
+	"增加 复制运费模板, 测试阶段, 未完善",
+	"",
 	"2019-04-22",
 	"测试 上传功能",
 	"",
