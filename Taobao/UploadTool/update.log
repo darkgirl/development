@@ -14,15 +14,15 @@
 			"run": true,
 			"archive": false,
 			"path": "./TaobaoUploadTool.exe", 
-			"hash": "4d8ae12c0dee7eac9c994176ac2ee42e",
-			"size": 1441792
+			"hash": "d5e32ad495968305807eea3745339af3",
+			"size": 1413120
 		},
 		{
 			"url": "https://raw.githubusercontent.com/darkgirl/development/master/Util/Util.dll",
 			"archive": false,
 			"path": "./Util.dll",
-			"hash": "4a741641117664fe757f16d4e45bf009",
-			"size": 72192
+			"hash": "895aa5ad1c241b946695e1788a0c1260",
+			"size": 73728
 		},
 		{
 			"url": "https://raw.githubusercontent.com/darkgirl/development/master/Taobao/TaobaoUtil/TaobaoUtil.dll",
