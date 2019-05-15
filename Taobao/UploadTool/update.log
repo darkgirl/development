@@ -34,7 +34,7 @@
 		{
 			"url": "https://raw.githubusercontent.com/darkgirl/development/master/Taobao/UploadTool/database/delivery.json",
 			"archive": false,
-			"path": "./database/delivery.json",
+			"path": "./delivery.json",
 			"hash": "033a249612a195eefea8f2063023ccb7",
 			"size": 1004
 		}
