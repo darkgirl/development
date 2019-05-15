@@ -14,8 +14,8 @@
 			"run": true,
 			"archive": false,
 			"path": "./TaobaoUploadTool.exe", 
-			"hash": "e422f98c7103a8af7ba7528cbb792029",
-			"size": 1521152
+			"hash": "ef4326cfcd8f045eceb25c74530b0a13",
+			"size": 1525760
 		},
 		{
 			"url": "https://raw.githubusercontent.com/darkgirl/development/master/Util/Util.dll",
@@ -30,6 +30,13 @@
 			"path": "./TaobaoUtil.dll",
 			"hash": "e3c4df2214bf7a095a69300964cab4de",
 			"size": 38400
+		},
+		{
+			"url": "https://raw.githubusercontent.com/darkgirl/development/master/Taobao/UploadTool/database/delivery.json",
+			"archive": false,
+			"path": "./database/delivery.json",
+			"hash": "033a249612a195eefea8f2063023ccb7",
+			"size": 1004
 		}
 	],
 	"change_log": [

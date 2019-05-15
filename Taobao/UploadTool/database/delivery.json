@@ -1,0 +1,39 @@
+{
+	"海外": {
+			"name": "海外",
+			"id": "990100",
+			"destinationNames": ["澳大利亚,加拿大,日本,马来西亚,新西兰,新加坡,韩国,美国,海外"],
+			"destinationIds": [16, 37, 104, 125, 150, 190, 198, 228, 990000]
+		},
+	"西藏": {
+			"name": "西藏",
+			"id": "540128",
+			"destinationNames": ["西藏,青海,新疆"],
+			"destinationIds": [540000, 630000, 650000]
+		},
+	"甘肃": {
+			"name": "甘肃",
+			"id": "620124",
+			"destinationNames": ["河南,贵州,甘肃,宁夏"],
+			"destinationIds": [410000, 520000, 620000, 640000]
+		},
+	"台湾": {
+			"name": "台湾",
+			"id": "710113",
+			"destinationNames": ["台湾,香港,澳门"],
+			"destinationIds": [710000, 810000, 820000]
+		},
+	"北京": {
+			"name": "北京",
+			"id": "110230",
+			"destinationNames": ["北京"],
+			"destinationIds": [110000]
+		},
+	"西安": {
+			"name": "西安",
+			"id": "610127",
+			"default": true,
+			"destinationNames": [],
+			"destinationIds": []
+		}
+}
