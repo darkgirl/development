@@ -18,105 +18,105 @@
 			"size": 2189824
 		},
 		{
-			"url": "ftp://ftpuser:ftpuser123@39.104.125.219/software/TaobaoUploadTool/latest/TaobaoUtil.dll",
+			"url": "https://raw.githubusercontent.com/darkgirl/development/master/Taobao/TaobaoUtil.dll",
 			"archive": false,
 			"path": "./TaobaoUtil.dll",
 			"hash": "93d460ddc401dd909744b15072047473",
 			"size": 73216
 		},
 		{
-			"url": "ftp://ftpuser:ftpuser123@39.104.125.219/software/TaobaoUploadTool/latest/Util.dll",
+			"url": "https://raw.githubusercontent.com/darkgirl/development/master/Taobao/Util.dll",
 			"archive": false,
 			"path": "./Util.dll",
 			"hash": "2378921eeadd05a385f22c00a80a8589",
 			"size": 76288
 		},
 		{
-			"url": "ftp://ftpuser:ftpuser123@39.104.125.219/software/TaobaoUploadTool/latest/ProxyPool.dll",
+			"url": "https://raw.githubusercontent.com/darkgirl/development/master/Taobao/ProxyPool.dll",
 			"archive": false,
 			"hash": "aff84c53c80c1cc634e1ce6c00b65829",
 			"path": "./ProxyPool.dll",
 			"size": 43008
 		},
 		{
-			"url": "ftp://ftpuser:ftpuser123@39.104.125.219/software/TaobaoUploadTool/latest/SettingManager.dll",
+			"url": "https://raw.githubusercontent.com/darkgirl/development/master/Taobao/SettingManager.dll",
 			"archive": false,
 			"hash": "d66f82b856b77af7e5522e6868202e3b",
 			"path": "./SettingManager.dll",
 			"size": 15872
 		},
 		{
-			"url": "ftp://ftpuser:ftpuser123@39.104.125.219/software/TaobaoUploadTool/latest/TaobaoProduct.dll",
+			"url": "https://raw.githubusercontent.com/darkgirl/development/master/Taobao/TaobaoProduct.dll",
 			"archive": false,
 			"hash": "d4e3c71f6ba804e85d556cc4c2a7d902",
 			"path": "./TaobaoProduct.dll",
 			"size": 115200
 		},
 		{
-			"url": "ftp://ftpuser:ftpuser123@39.104.125.219/software/TaobaoUploadTool/latest/config/异常黑名单.txt",
+			"url": "https://raw.githubusercontent.com/darkgirl/development/master/Taobao/config/异常黑名单.txt",
 			"archive": false,
 			"path": "./config/异常黑名单.txt",
 			"hash": "3a67ab4e5a737b90f2d6b020d000e12b",
 			"size": 608
 		},
 		{
-			"url": "ftp://ftpuser:ftpuser123@39.104.125.219/software/TaobaoUploadTool/latest/script/taobaoaccount.js",
+			"url": "https://raw.githubusercontent.com/darkgirl/development/master/Taobao/script/taobaoaccount.js",
 			"archive": false,
 			"path": "./script/taobaoaccount.js",
 			"hash": "86e43b06c3dcde1c6b3ecae2a97bef47",
 			"size": 1137
 		},
 		{
-			"url": "ftp://ftpuser:ftpuser123@39.104.125.219/software/TaobaoUploadTool/latest/database/cqlt.db",
+			"url": "https://raw.githubusercontent.com/darkgirl/development/master/Taobao/database/cqlt.db",
 			"archive": false,
 			"hash": "a2c761364f22c542c64b531ad87666fd",
 			"path": "./database/cqlt.db",
 			"size": 8503
 		},
 		{
-			"url": "ftp://ftpuser:ftpuser123@39.104.125.219/software/TaobaoUploadTool/latest/database/levelOneCatagery.db",
+			"url": "https://raw.githubusercontent.com/darkgirl/development/master/Taobao/database/levelOneCatagery.db",
 			"archive": false,
 			"hash": "c6b0a2cbd9365a76fbabcfef1739ff0b",
 			"path": "./database/levelOneCatagery.db",
 			"size": 4043
 		},
 		{
-			"url": "ftp://ftpuser:ftpuser123@39.104.125.219/software/TaobaoUploadTool/latest/setting/readme.md",
+			"url": "https://raw.githubusercontent.com/darkgirl/development/master/Taobao/setting/readme.md",
 			"archive": false,
 			"hash": "25a37cba2bc9c0078766baa9e44e810e",
 			"path": "./setting/readme.md",
 			"size": 30
 		},
 		{
-			"url": "ftp://ftpuser:ftpuser123@39.104.125.219/software/TaobaoUploadTool/latest/database/address.db",
+			"url": "https://raw.githubusercontent.com/darkgirl/development/master/Taobao/database/address.db",
 			"archive": false,
 			"path": "./database/address.db",
 			"hash": "1c1a1b19a81d6217a826b0858eda19b8",
 			"size": 123415
 		},
 		{
-			"url": "ftp://ftpuser:ftpuser123@39.104.125.219/software/TaobaoUploadTool/latest/database/delivery.json",
+			"url": "https://raw.githubusercontent.com/darkgirl/development/master/Taobao/database/delivery.json",
 			"archive": false,
 			"path": "./database/delivery.json",
 			"hash": "f5aec3d02f352b9ac54ccc169158b4d1",
 			"size": 1007
 		},
 		{
-			"url": "ftp://ftpuser:ftpuser123@39.104.125.219/software/TaobaoUploadTool/latest/database/proxy.db",
+			"url": "https://raw.githubusercontent.com/darkgirl/development/master/Taobao/database/proxy.db",
 			"archive": false,
 			"path": "./database/proxy.db",
 			"hash": "dd50884943b72915998eb5827eec6e9c",
 			"size": 1937
 		},
 		{
-			"url": "ftp://ftpuser:ftpuser123@39.104.125.219/software/TaobaoUploadTool/latest/sizePropName.db",
+			"url": "https://raw.githubusercontent.com/darkgirl/development/master/Taobao/sizePropName.db",
 			"archive": false,
 			"path": "./sizePropName.db",
 			"hash": "a04be8ae07ecf99c36e9f1988abb3572",
 			"size": 66556
 		},
 		{
-			"url": "ftp://ftpuser:ftpuser123@39.104.125.219/software/TaobaoUploadTool/latest/onlyOneSku.db",
+			"url": "https://raw.githubusercontent.com/darkgirl/development/master/Taobao/onlyOneSku.db",
 			"archive": false,
 			"path": "./onlyOneSku.db",
 			"hash": "412ec58e6734740fe21204fad81243ae",
