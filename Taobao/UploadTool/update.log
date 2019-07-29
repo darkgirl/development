@@ -14,32 +14,119 @@
 			"run": true,
 			"archive": false,
 			"path": "./TaobaoUploadTool.exe", 
-			"hash": "ef4326cfcd8f045eceb25c74530b0a13",
-			"size": 1525760
+			"hash": "d54667380a8519a68d557dac66871206",
+			"size": 2189824
 		},
 		{
-			"url": "https://raw.githubusercontent.com/darkgirl/development/master/Util/Util.dll",
-			"archive": false,
-			"path": "./Util.dll",
-			"hash": "895aa5ad1c241b946695e1788a0c1260",
-			"size": 73728
-		},
-		{
-			"url": "https://raw.githubusercontent.com/darkgirl/development/master/Taobao/TaobaoUtil/TaobaoUtil.dll",
+			"url": "ftp://ftpuser:ftpuser123@39.104.125.219/software/TaobaoUploadTool/latest/TaobaoUtil.dll",
 			"archive": false,
 			"path": "./TaobaoUtil.dll",
-			"hash": "e3c4df2214bf7a095a69300964cab4de",
-			"size": 38400
+			"hash": "93d460ddc401dd909744b15072047473",
+			"size": 73216
 		},
 		{
-			"url": "https://raw.githubusercontent.com/darkgirl/development/master/Taobao/UploadTool/database/delivery.json",
+			"url": "ftp://ftpuser:ftpuser123@39.104.125.219/software/TaobaoUploadTool/latest/Util.dll",
+			"archive": false,
+			"path": "./Util.dll",
+			"hash": "2378921eeadd05a385f22c00a80a8589",
+			"size": 76288
+		},
+		{
+			"url": "ftp://ftpuser:ftpuser123@39.104.125.219/software/TaobaoUploadTool/latest/ProxyPool.dll",
+			"archive": false,
+			"hash": "aff84c53c80c1cc634e1ce6c00b65829",
+			"path": "./ProxyPool.dll",
+			"size": 43008
+		},
+		{
+			"url": "ftp://ftpuser:ftpuser123@39.104.125.219/software/TaobaoUploadTool/latest/SettingManager.dll",
+			"archive": false,
+			"hash": "d66f82b856b77af7e5522e6868202e3b",
+			"path": "./SettingManager.dll",
+			"size": 15872
+		},
+		{
+			"url": "ftp://ftpuser:ftpuser123@39.104.125.219/software/TaobaoUploadTool/latest/TaobaoProduct.dll",
+			"archive": false,
+			"hash": "d4e3c71f6ba804e85d556cc4c2a7d902",
+			"path": "./TaobaoProduct.dll",
+			"size": 115200
+		},
+		{
+			"url": "ftp://ftpuser:ftpuser123@39.104.125.219/software/TaobaoUploadTool/latest/config/异常黑名单.txt",
+			"archive": false,
+			"path": "./config/异常黑名单.txt",
+			"hash": "3a67ab4e5a737b90f2d6b020d000e12b",
+			"size": 608
+		},
+		{
+			"url": "ftp://ftpuser:ftpuser123@39.104.125.219/software/TaobaoUploadTool/latest/script/taobaoaccount.js",
+			"archive": false,
+			"path": "./script/taobaoaccount.js",
+			"hash": "86e43b06c3dcde1c6b3ecae2a97bef47",
+			"size": 1137
+		},
+		{
+			"url": "ftp://ftpuser:ftpuser123@39.104.125.219/software/TaobaoUploadTool/latest/database/cqlt.db",
+			"archive": false,
+			"hash": "a2c761364f22c542c64b531ad87666fd",
+			"path": "./database/cqlt.db",
+			"size": 8503
+		},
+		{
+			"url": "ftp://ftpuser:ftpuser123@39.104.125.219/software/TaobaoUploadTool/latest/database/levelOneCatagery.db",
+			"archive": false,
+			"hash": "c6b0a2cbd9365a76fbabcfef1739ff0b",
+			"path": "./database/levelOneCatagery.db",
+			"size": 4043
+		},
+		{
+			"url": "ftp://ftpuser:ftpuser123@39.104.125.219/software/TaobaoUploadTool/latest/setting/readme.md",
+			"archive": false,
+			"hash": "25a37cba2bc9c0078766baa9e44e810e",
+			"path": "./setting/readme.md",
+			"size": 30
+		},
+		{
+			"url": "ftp://ftpuser:ftpuser123@39.104.125.219/software/TaobaoUploadTool/latest/database/address.db",
+			"archive": false,
+			"path": "./database/address.db",
+			"hash": "1c1a1b19a81d6217a826b0858eda19b8",
+			"size": 123415
+		},
+		{
+			"url": "ftp://ftpuser:ftpuser123@39.104.125.219/software/TaobaoUploadTool/latest/database/delivery.json",
 			"archive": false,
 			"path": "./database/delivery.json",
-			"hash": "d9171ad9515423233dd3da8e7efd2ea1",
-			"size": 966
+			"hash": "f5aec3d02f352b9ac54ccc169158b4d1",
+			"size": 1007
+		},
+		{
+			"url": "ftp://ftpuser:ftpuser123@39.104.125.219/software/TaobaoUploadTool/latest/database/proxy.db",
+			"archive": false,
+			"path": "./database/proxy.db",
+			"hash": "dd50884943b72915998eb5827eec6e9c",
+			"size": 1937
+		},
+		{
+			"url": "ftp://ftpuser:ftpuser123@39.104.125.219/software/TaobaoUploadTool/latest/sizePropName.db",
+			"archive": false,
+			"path": "./sizePropName.db",
+			"hash": "a04be8ae07ecf99c36e9f1988abb3572",
+			"size": 66556
+		},
+		{
+			"url": "ftp://ftpuser:ftpuser123@39.104.125.219/software/TaobaoUploadTool/latest/onlyOneSku.db",
+			"archive": false,
+			"path": "./onlyOneSku.db",
+			"hash": "412ec58e6734740fe21204fad81243ae",
+			"size": 152698
 		}
 	],
 	"change_log": [
+		"2019-07-29",
+		"",
+		"",
 		"2019-05-15",
 		"修复 上次更新出现的问题",
 		"复制运费模板功能关闭, 具体开放时间待定",
